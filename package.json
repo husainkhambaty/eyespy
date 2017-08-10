@@ -1,0 +1,23 @@
+{
+  "name": "eyespy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "monitoring"
+  ],
+  "author": "Husain Khambaty",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-format": "^0.2.1",
+    "config": "^1.26.1",
+    "net": "^1.0.2",
+    "os-monitor": "^1.0.5",
+    "prompt": "^1.0.0",
+    "uuid": "^3.1.0"
+  }
+}

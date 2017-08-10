@@ -1,0 +1,14 @@
+{
+	"config" : {
+		"delay": 5000,
+		"logger" : {
+			"level" : "info"
+		},
+		/*"db" : {
+			"host" : "localhost",
+			"port" : 2810,
+			"connectionstring" : "somestring"
+			/* introduce encryption later or token exchange 
+		}*/
+	}
+}
